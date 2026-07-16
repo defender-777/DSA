@@ -14,4 +14,5 @@ def reverse(n):
 num = int(input())
 print(reverse(num))
 
+
     
